@@ -4,7 +4,7 @@
 
 **Project:** FinFolio - Portfolio Insight & Optimizer  
 **Môn học:** Technology Applications in Finance and Banking, NHA408E  
-**Group members:** Phương, Ngọc, Hưng, An Thái, Hải
+**Group members:** Phạm Minh Phương, Hoàng Minh Ngọc, Nguyễn Trịnh Thái Hưng, Nghiêm An Thái, Bùi Thanh Hải
 
 | **Nội dung**      | **Mô tả**                                                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------|
